@@ -1,3 +1,3 @@
 # test
 
-the test is for pyrhon study exercise
+the test is for python studying exercise

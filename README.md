@@ -1,3 +1,3 @@
 # test
 
-anything
+the test is for pyrhon study exercise

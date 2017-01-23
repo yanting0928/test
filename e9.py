@@ -5,7 +5,7 @@
 days = "Mon Tue Wed Thu Fri Sat Sun"
 months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 
-print "Here are the days : ",days
+print "Here are the days : ", days     #a problem about before "days" why it don't need %,if I add % before "days",it will be invaid
 print "Here are the months : ", months
 
 print """
